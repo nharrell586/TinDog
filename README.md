@@ -1,2 +1,1 @@
-# TinDog
-Fake Startup for Web Development course
+TinDog Starting Files
